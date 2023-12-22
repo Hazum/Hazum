@@ -1,17 +1,17 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://replit.com/@A378775)
-<h1 align="center">Hi 👋, I'm Hazum</h1>
-<h3 align="center">A fun Gamer/ Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+h1 align="center">Hi 👋, I'm Chef Sukuna</h1>
+<h3 align="center">A passionate chef from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazum&label=Profile%20views&color=0e75b6&style=flat" alt="hazum" /> </p>
 
-- 🔭 I’m currently working on **A Pygame Application**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazum" alt="hazum" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- I’m currently learning **Ways to hide a dead body**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@A378775](https://replit.com/@A378775)
+- All of my projects are available at [https://replit.com/@Hazumplayz](https://replit.com/@Hazumplayz)
 
-- ⚡ Fun fact **I'm a FNF fan**
+- Ask me about **Gojo's Death**
+
+- Fun fact **I've been called "King of curses even before my daeth"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,8 +20,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazum&show_icons=true&locale=en&layout=compact" alt="hazum" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazum&show_icons=true&locale=en&layout=compact" alt="hazum" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazum&show_icons=true&locale=en" alt="hazum" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazum&" alt="hazum" /></p>
